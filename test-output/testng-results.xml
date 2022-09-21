@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-17T19:51:47 EDT" name="Suite" finished-at="2022-08-17T19:52:29 EDT" duration-ms="41858">
+    <groups>
+    </groups>
+    <test started-at="2022-08-17T19:51:47 EDT" name="Test" finished-at="2022-08-17T19:52:29 EDT" duration-ms="41858">
+      <class name="tests.RegistrationTestDtPvd">
+        <test-method signature="flightReg(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.RegistrationTestDtPvd@70e9c95d]" started-at="2022-08-17T19:51:48 EDT" name="flightReg" data-provider="dp" finished-at="2022-08-17T19:51:55 EDT" duration-ms="6629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pranati]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[111-222-3333]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pranati@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[nizampet]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[old city]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Ap]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[56678]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[pranati]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[pranati]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[pranati]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightReg -->
+        <test-method signature="flightReg(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.RegistrationTestDtPvd@70e9c95d]" started-at="2022-08-17T19:51:55 EDT" name="flightReg" data-provider="dp" finished-at="2022-08-17T19:52:03 EDT" duration-ms="7926" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pranati1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[111-222-4444]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pranati@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[nizampet]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[new city]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Ap]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[67789]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[UNITED STATES]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[pranati1]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[pranati1]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[pranati1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightReg -->
+      </class> <!-- tests.RegistrationTestDtPvd -->
+      <class name="tests.HomePageTestDtPvd">
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTestDtPvd@f09733f]" started-at="2022-08-17T19:52:03 EDT" name="f" data-provider="dp" finished-at="2022-08-17T19:52:10 EDT" duration-ms="7598" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sachin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTestDtPvd@f09733f]" started-at="2022-08-17T19:52:10 EDT" name="f" data-provider="dp" finished-at="2022-08-17T19:52:16 EDT" duration-ms="5975" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sachin1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTestDtPvd@f09733f]" started-at="2022-08-17T19:52:16 EDT" name="f" data-provider="dp" finished-at="2022-08-17T19:52:22 EDT" duration-ms="5243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sachin2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:tests.HomePageTestDtPvd@f09733f]" started-at="2022-08-17T19:52:22 EDT" name="f" data-provider="dp" finished-at="2022-08-17T19:52:29 EDT" duration-ms="7710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sachin3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- tests.HomePageTestDtPvd -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
